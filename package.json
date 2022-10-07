@@ -1,0 +1,29 @@
+{
+  "type": "module",
+  "name": "typescriptnode_configuracao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon src/index.ts",
+    "start": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/nicoli_simoes/typescriptnode_configuracao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/nicoli_simoes/typescriptnode_configuracao/issues"
+  },
+  "homepage": "https://gitlab.com/nicoli_simoes/typescriptnode_configuracao#readme",
+  "devDependencies": {
+    "@types/node": "^18.8.3",
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  }
+}
