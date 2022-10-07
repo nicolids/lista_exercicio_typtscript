@@ -1,6 +1,6 @@
 # lista_exercicio_typtscript
 
-##Introdução ao TypeScript
+## Introdução ao TypeScript
 
 1 Exercícios
 Utilize o ambiente Node.js para executar no console o código TypeScript destes exercícios. Você pode utilizar como base o projeto configurado no Laboratório 1.
